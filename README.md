@@ -1,5 +1,8 @@
 #### 效果图
-![图片1](https://github.com/liyiliyiliyi/vue-element-vuex/blob/master/showImages/74A%40%5D)%25F4%60LT%7D5NTEZBPLT8.png)
+![][1]
+
+[1]: https://github.com/liyiliyiliyi/vue-element-vuex/blob/master/showImages/74A%40%5D)%25F4%60LT%7D5NTEZBPLT8.png
+
 
 ![](https://github.com/liyiliyiliyi/vue-element-vuex/blob/master/showImages/5SXH%6046G%24~MS68%5BLWN2WT5L.png)
 ![](https://github.com/liyiliyiliyi/vue-element-vuex/blob/master/showImages/99P~C%7BYJ3O1GA((N5JC%7DH%7DH.png)
